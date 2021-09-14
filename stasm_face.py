@@ -8,8 +8,8 @@ import cv2
 import dlib
 import matplotlib.pyplot as plt
 import sys
-
-img = cv2.imread('C:/Users/DI/Desktop/work/images.jpg', cv2.IMREAD_UNCHANGED)
+#location of image
+img = cv2.imread('/images.jpg', cv2.IMREAD_UNCHANGED)
 
 hog_face_detector = dlib.get_frontal_face_detector()
 
