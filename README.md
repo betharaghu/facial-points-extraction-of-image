@@ -5,8 +5,5 @@ https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predic
 
 Requirements <br />
 
-dlib  <br />
-
-opencv <br />
-
+dlib  <br /> ,opencv 
 
