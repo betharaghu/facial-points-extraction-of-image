@@ -5,5 +5,6 @@ https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predic
 
 Requirements : <br />
 
-dlib  <br /> ,opencv 
+dlib(conda users use conda command for easy installaion )  <br /> 
+opencv 
 
